@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            Text("Rakibul Hossain"),
+            Text("Rakibul Islam"),
             Text("rakibulpb6670@gmail.com")
           ],
         ),
